@@ -1,3 +1,9 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/3ab00bb7-89f8-4641-9e27-99363bf2ea5e/deploy-status)](https://app.netlify.com/sites/smartpecs/deploys)
+
+# Staging site
+
+You caen check the current staging on the [staging site](https://smartpecs.netlify.app)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
